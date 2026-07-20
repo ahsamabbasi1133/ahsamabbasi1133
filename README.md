@@ -62,9 +62,15 @@ AI / ML
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsamabbasi1133&theme=radical&hide_border=true&bg_color=0D1117&color=F7CE68&line=F7CE68&point=ffffff"/>
 </p>
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ahsamabbasi1133&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7"/> </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahsamabbasi1133&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+</p>
 ✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </p>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 🔝 Top Contributed Repos
-<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=ahsamabbasi1133&limit=5&theme=dark&combine_all_yearly_contributions=true"/> </p>
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=ahsamabbasi1133&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> </p> <p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=ahsamabbasi1133&icon=0&color=F7CE68&style=flat-square" alt="Profile Views"/></a> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/> <p align="center"><i>⭐️ From <a href="https://github.com/ahsamabbasi1133">ahsamabbasi1133</a> — Thanks for stopping by!</i></p>

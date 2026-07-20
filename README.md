@@ -38,10 +38,29 @@ Design
 <p align="left"> <img src="https://skillicons.dev/icons?i=ps,ai,figma,canva" /> </p>
 
 AI / ML
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,py" /> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,py" />
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 📊 GitHub Stats & Insights:
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsamabbasi1133&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7CE68&icon_color=F7CE68"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsamabbasi1133&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7CE68"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsamabbasi1133&theme=radical&hide_border=true&background=0D1117&ring=F7CE68&fire=F7CE68&currStreakLabel=F7CE68"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsamabbasi1133&theme=redical&hide_border=true&bg_color=0D1117&color=F7CE68&line=F7CE68&point=ffffff"/> </p>
+## 📊 GitHub Stats & Insights:
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsamabbasi1133&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7CE68&icon_color=F7CE68"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsamabbasi1133&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7CE68"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsamabbasi1133&theme=radical&hide_border=true&background=0D1117&ring=F7CE68&fire=F7CE68&currStreakLabel=F7CE68"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsamabbasi1133&theme=radical&hide_border=true&bg_color=0D1117&color=F7CE68&line=F7CE68&point=ffffff"/>
+</p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ahsamabbasi1133&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7"/> </p>
 ✍️ Random Dev Quote

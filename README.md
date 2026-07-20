@@ -4,7 +4,7 @@
 🌱 Currently exploring: Advanced AI Agent Architectures
 👀 Interested in: Full-Stack + AI Integration
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;JavaScript+%7C+Node.js+%7C+Express.js;React.js+%7C+MongoDB+%7C+WordPress;AI+Agents+%7C+Agentic+AI+%7C+Generative+AI;Manual+QA+Testing+%7C+Postman" alt="Typing SVG" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahsam%20Abbasi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20%7C%20AI%20Agent%20Developer&descAlignY=55&descAlign=50" width="100%"/> <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;JavaScript+%7C+Node.js+%7C+Express.js;React.js+%7C+MongoDB+%7C+WordPress;AI+Agents+%7C+Agentic+AI+%7C+Generative+AI;Manual+QA+Testing+%7C+Postman" alt="Typing SVG" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahassam%20Shafiq&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20%7C%20AI%20Agent%20Developer&descAlignY=55&descAlign=50" width="100%"/> <br/>
 🌐 Connect With Me:
 <p align="center"> <a href="https://discord.gg/XTnn7PGu"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.facebook.com/ahsam.abbasi.566"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://www.instagram.com/ahsam_abbasi333"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ahsam-abbasi1133"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://pin.it/68dpreUjW"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/></a> <a href="https://www.quora.com/profile/Ahassam-Shafiq"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a> <a href="https://www.tiktok.com/@ahsamabbasi321"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a> <a href="https://x.com/AhsamAbbasi3"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a> <a href="https://youtube.com/@abbasiedits3223"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> <a href="mailto:tech.ahsam143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 💻 Tech Arsenal:
@@ -47,8 +47,6 @@ AI / ML
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 📊 GitHub Stats & Insights:
-## 📊 GitHub Stats & Insights:
-
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsamabbasi1133&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7CE68&icon_color=F7CE68"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsamabbasi1133&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7CE68"/>
@@ -63,8 +61,8 @@ AI / ML
 </p>
 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahsamabbasi1133&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ahsamabbasi1133&theme=onedark&no-frame=false&no-bg=false&margin-w=4"/>
+</p
 ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>

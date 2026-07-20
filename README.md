@@ -48,11 +48,6 @@ AI / ML
 </p>
 📊 GitHub Stats & Insights:
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsamabbasi1133&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7CE68&icon_color=F7CE68"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsamabbasi1133&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7CE68"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsamabbasi1133&theme=radical&hide_border=true&background=0D1117&ring=F7CE68&fire=F7CE68&currStreakLabel=F7CE68"/>
 </p>
 
